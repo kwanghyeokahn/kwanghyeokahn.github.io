@@ -5,7 +5,6 @@ url: http://webjeda.com/
 permalink: ':title/'
 
 markdown: kramdown
-#baseurl: "/karna"
 baseurl:
 full-version: "http://webjeda.com/karna-full/"
 
